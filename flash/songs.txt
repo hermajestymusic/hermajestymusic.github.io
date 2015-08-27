@@ -1,0 +1,15 @@
+&song1=../downloads/soundclips/music-mostunlikely.swf
+&song2=../downloads/soundclips/music-boys.swf
+&song3=../downloads/soundclips/music-fire.swf
+&song4=../downloads/soundclips/music-funeral.swf
+&song5=../downloads/soundclips/music-sawthelight.swf
+&song6=../downloads/soundclips/music-differenttimes.swf
+&song7=../downloads/soundclips/music-forgiveme.swf
+&song8=../downloads/soundclips/music-maytomorrow.swf
+&song9=../downloads/soundclips/music-always.swf
+&song10=../downloads/soundclips/music-nocommitment.swf
+&song11=../downloads/soundclips/music-capture.swf
+&song12=../downloads/soundclips/music-bikeride.swf
+&song13=../downloads/soundclips/music-cutme.swf
+&song14=../downloads/soundclips/music-thepast.swf
+&song15=../downloads/soundclips/music-sunshine.swf
